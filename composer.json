@@ -1,0 +1,9 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.336",
+        "guzzlehttp/guzzle": "^7.9",
+        "ramsey/uuid": "^4.7",
+        "ratchet/pawl": "^0.4.1",
+        "react/event-loop": "^1.5"
+    }
+}
